@@ -32,6 +32,7 @@ int main() {
         parse_input(input, args);
         execute_command(args);
     }
+    
 
     return 0;
 }
